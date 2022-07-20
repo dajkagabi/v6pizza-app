@@ -1,6 +1,6 @@
 React Pizza app.
 
-PedroTech, inspirációja/technikája alapján készült webes applikáció.
+PedroTech, inspirációja alapján készült webes applikáció.
 https://www.youtube.com/watch?v=QwarZBtFoFA
 
 
